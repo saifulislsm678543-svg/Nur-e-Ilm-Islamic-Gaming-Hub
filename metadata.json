@@ -1,0 +1,7 @@
+{
+  "name": "Nur-e-Ilm: Islamic Gaming Hub",
+  "description": "An interactive Islamic educational platform featuring quizzes, word games, and an AI Islamic assistant to learn and test your knowledge about Islam in Bengali.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
